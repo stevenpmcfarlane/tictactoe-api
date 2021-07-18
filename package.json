@@ -1,0 +1,27 @@
+{
+  "name": "tictactoe-api",
+  "version": "1.0.0",
+  "description": "Tic Tac Toe API",
+  "main": "src/index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^27.0.6",
+    "mongodb": "^4.0.0",
+    "uuid": "^8.3.2",
+    "ws": "^7.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevenpmcfarlane/tictactoe-api.git"
+  },
+  "author": "Steven P McFarlane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevenpmcfarlane/tictactoe-api/issues"
+  },
+  "homepage": "https://github.com/stevenpmcfarlane/tictactoe-api#readme"
+}
