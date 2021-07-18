@@ -75,7 +75,8 @@ Starts a new game
 
 ```json
 {
-  "playerId": "uuid"
+  "playerId": "uuid",
+  "lobbyId": "uuid"
 }
 ```
 
@@ -94,6 +95,7 @@ Starts a new game
 ```json
 {
   "id": "uuid",
+  "lobbyId": "uuid",
   "playerX": "uuid",
   "playerO": "uuid",
   "startDate": "datetime"
